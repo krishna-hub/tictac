@@ -1,0 +1,19 @@
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid #F3F2C9;
+    padding: 10px;
+    }
+
+    .para {
+        
+        margin-top: 30%;
+        text-align: center;
+        }
+
+
+ body{
+    background-color:#53B8BB;
+ }       
